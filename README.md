@@ -1,0 +1,1 @@
+Tạo máy ảo trên promox 7.4 VE
